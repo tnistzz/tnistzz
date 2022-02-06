@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tnistzz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+学校：厦门大学嘉庚学院  
+专业：数据科学与大数据技术  
+姓名：田内江  
+
+
 
 <!---
 tnistzz/tnistzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
